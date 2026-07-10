@@ -2,7 +2,7 @@
 **Supplementary materials for the MettleRNASeq research project.**
 
 
-###*Supplementary Material 1: DEG tools for both treatment conditions (Standard vs. FLASH).*
+* *Supplementary Material 1: DEG tools for both treatment conditions (Standard vs. FLASH).*
 
 DESeq2: Shows the padj and lof2FC values.
 
